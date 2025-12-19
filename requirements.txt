@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+fastapi
+uvicorn[standard]
+numpy
+opencv-python==4.9.0.80
+python-multipart
+pillow
+deepface==0.0.75
+google-cloud-storage
+requests
+gunicorn
